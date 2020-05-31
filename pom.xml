@@ -27,6 +27,7 @@
         <module>demo-springboot-task</module>
         <module>demo-springboot-mongodb</module>
         <module>demo-springboot-tcc</module>
+        <module>demo-springboot-runner</module>
     </modules>
 
 </project>
