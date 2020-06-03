@@ -28,6 +28,7 @@
         <module>demo-springboot-mongodb</module>
         <module>demo-springboot-tcc</module>
         <module>demo-springboot-runner</module>
+        <module>demo-springboot-mybatisplus</module>
     </modules>
 
 </project>
