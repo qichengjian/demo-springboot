@@ -29,6 +29,7 @@
         <module>demo-springboot-tcc</module>
         <module>demo-springboot-runner</module>
         <module>demo-springboot-mybatisplus</module>
+        <module>demo-springboot-http-retry</module>
     </modules>
 
 </project>
